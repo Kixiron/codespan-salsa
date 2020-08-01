@@ -1,0 +1,9 @@
+[package]
+name = "codespan-salsa"
+version = "0.1.0"
+authors = ["Chase Wilson <me@chasewilson.dev>"]
+edition = "2018"
+
+[dependencies]
+salsa = "0.15.1"
+codespan-reporting = "0.9.5"
